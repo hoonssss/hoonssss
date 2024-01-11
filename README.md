@@ -1,9 +1,15 @@
-### 필요한 기술 제공을 위해 기록하는 Git 입니다.😁
+### 필요한 기술 제공을 위해 기록하는 Git 입니다.
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:wogns8030@kakao.com">
-        <img src="https://img.shields.io/badge/KakaoMail-00000F?style=for-the-badge&logo=KakaoMail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Kakao-00000F?style=for-the-badge&logo=Kakao&logoColor=white"> 
+    </a>
+    <a href="mailto:wogns8030@naver.com">
+        <img src="https://img.shields.io/badge/naver-00000F?style=for-the-badge&logo=naver&logoColor=white"> 
+    </a>
+    <a href="mailto:wogns8060@gmail.com">
+        <img src="https://img.shields.io/badge/google-00000F?style=for-the-badge&logo=google&logoColor=white"> 
     </a>
 
 
