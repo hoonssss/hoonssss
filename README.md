@@ -6,7 +6,10 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-00000F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-00000F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=Git&logoColor=white" />
+  <img alt="FireBase" src="https://img.shields.io/badge/FireBase-00000F?style=for-the-badge&logo=FireBase&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/aws-00000F?style=for-the-badge&logo=aws&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/docker-00000F?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### ⭐️My Page
