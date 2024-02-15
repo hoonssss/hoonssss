@@ -50,9 +50,6 @@
   <img alt="AMAZON AWS" src="https://img.shields.io/badge/AMAZON AWS-00000F?style=for-the-badge&logo=AMAZON AWS&logoColor=white" />
   <img alt="FireBase" src="https://img.shields.io/badge/FireBase-00000F?style=for-the-badge&logo=FireBase&logoColor=white" />
 
-### Message Queue
-  <img alt="Kafka" src="https://img.shields.io/badge/Apache Kafka-00000F?style=for-the-badge&logo=Apache Kafka&logoColor=white" />
-
 ### Communication
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-00000F?style=for-the-badge&logo=Figma&logoColor=white" />
