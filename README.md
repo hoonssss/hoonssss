@@ -5,7 +5,7 @@
 - [cooperationTool](https://github.com/hoonssss/cooperationTool)
 - [Backendgram](https://github.com/hoonssss/B08-Backendgram)
 - [OTIL](https://github.com/hoonssss/otil)
-- [OTIL](https://github.com/hoonssss/board)
+- [JHBoard](https://github.com/hoonssss/board)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
