@@ -11,7 +11,7 @@
 - [OTIL](https://github.com/hoonssss/otil)
 ### personal project
 - [highVolumeTrafficBoard](https://github.com/hoonssss/highVolumeTrafficBoard)
-- [JHBoard](https://github.com/hoonssss/board)
+- [JHBoard](https://github.com/hoonssss/board) (https://project-boardjh-99f55ecf0406.herokuapp.com/)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
