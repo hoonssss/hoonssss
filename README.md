@@ -12,7 +12,7 @@
 ### personal project
 - [highVolumeTrafficBoard](https://github.com/hoonssss/highVolumeTrafficBoard)
 - [JHBoard](https://github.com/hoonssss/board) (https://project-boardjh-99f55ecf0406.herokuapp.com/)
-
+- [highVolumeTrafficBoard](https://github.com/hoonssss/highVolumeTrafficBoard)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:wogns8030@kakao.com">
