@@ -30,9 +30,13 @@
 <p>
     
 ### Backend  
-  <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="java" src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+
+### Frontend  
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
   
-### Database  
+### Database
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-00000F?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-00000F?style=for-the-badge&logo=Redis&logoColor=white" />
   
