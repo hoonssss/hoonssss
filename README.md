@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=YUN%20JAE%20HOON&fontColor=000000&color=gradient&animation=fadeIn)
 
-### 필요한 기술 제공을 위해 기록하는 Git 입니다.
+### Hoonssss Git.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonssss%2Fhit-counter&count_bg=%239A9A9A&title_bg=%23847B7B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
