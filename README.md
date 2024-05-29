@@ -69,7 +69,6 @@
 ## ⭐️My Page
 <p>
   <a href="https://www.instagram.com/jjhoonss/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-00000F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://blog.naver.com/hoonssss-" target="_blank"><img alt="NAVER" src="https://img.shields.io/badge/NAVER-00000F?style=for-the-badge&logo=NAVER&logoColor=white"/></a>
 </p>
 
 
