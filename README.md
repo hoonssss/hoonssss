@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=YUN%20JAE%20HOON&fontColor=000000&color=gradient&animation=fadeIn)
 
 ## Hoonssss Git.
+금융IT개발 부문(M&S(Maintenance & Service) 본부)
+
+금융기관 및 금융공기관에서 활용되는 금융공학모형개발 프로젝트 수행 및 유지보수,
+
+금융시스템 개발 프로젝트 진행 및 당사 패키지 솔루션 개발,
+
+공공기관 시스템 유지보수 사업(웹기능 개발 및 유지보수) 등 업무를 수행하고 있습니다.
+
+다양한 언어, 다양한 기술을 기록해두고 좋은 기술을 세상에 제공하고자 Git에 기록하고 있습니다.
 
 ### Today/Total
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonssss%2Fhit-counter&count_bg=%239A9A9A&title_bg=%23847B7B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
