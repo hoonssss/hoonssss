@@ -47,6 +47,7 @@
 ### Framework
   <img alt="Spring" src="https://img.shields.io/badge/Spring-00000F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-00000F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
+  <img alt="dhtmlx5" src="https://img.shields.io/badge/dhtmlx5-00000F?style=for-the-badge&logo=dhtmlx5&logoColor=white" />
 
 ### Version Control  
   <img alt="Git" src="https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=Git&logoColor=white" />
