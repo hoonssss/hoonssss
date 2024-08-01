@@ -35,6 +35,9 @@
 
 ### Frontend  
   <img alt="javascript" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+### language
+  <img alt="python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   
 ### Database
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-00000F?style=for-the-badge&logo=Oracle&logoColor=white" />
