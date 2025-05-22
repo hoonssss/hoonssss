@@ -3,6 +3,10 @@
 ## Hoonssss Git.
 다양한 언어, 다양한 기술을 기록해두고 좋은 기술을 세상에 제공하고자 Git에 기록하고 있습니다.
 
+AI(GPT, Claude)를 적극 활용하여 부족한 부분을 보완하고 있습니다.
+
+AI를 통한 코드는 분석을 통해 공부하고 최적화 방법을 연구합니다.
+
 ### TeamProjects
 - [Topster2.0](https://github.com/hoonssss/topster2.0)
 - [cooperationTool](https://github.com/hoonssss/cooperationTool)
