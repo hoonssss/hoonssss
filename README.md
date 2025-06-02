@@ -39,7 +39,7 @@ AI(GPT, Claude) 도구를 적극 활용해 부족한 부분을 보완하고, AI�
 
 ### 3. 법률·회계·세무 중심 LLM (준비 중)  
 - 법률 분야 AI 접목 프로젝트 기획  
-- 관련 기술: React, React Native(웹 이후), Spring, Java, SQL, Redis, Docker, AWS  
+- 관련 기술: React, React Native(웹 이후), Spring, Java, SQL, Redis, Docker, Llama, AWS  
 - 판례분석, 요약 및 질의응답, 출처 제공
 ---
 
