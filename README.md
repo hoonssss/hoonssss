@@ -31,7 +31,9 @@ AI(GPT, Claude) 도구를 적극 활용해 부족한 부분을 보완하고, AI�
 ### 1. PAYCUT  
 금융 결제 시스템 구축 프로젝트  
 - 사용자 앱, PG 연동, 관리자 웹, 승인 및 사용자 흐름 개발 중  
-- 관련 기술: React, React Native, Spring, Java, JPA, SQL, Redis, Kafka, Docker, AWS  
+- 관련 기술: React, React Native, Spring, Java, JPA, SQL, Redis, Kafka, Docker, AWS
+- 관련 웹 : https://paycutweb.com
+- 관련 앱 : ios/android 개발 중 
 
 ### 2. 주식 AI  
 - XGBoost 기반 앙상블 주식 예측 AI 프로젝트  
