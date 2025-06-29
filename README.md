@@ -17,14 +17,27 @@ AI(GPT, Claude) 도구를 적극 활용해 부족한 부분을 보완하고, AI�
 ---
 
 ## 기술 스택
-- **Backend:** Java, Spring, MyBatis, Jpa 
-- **Frontend:** JavaScript, React, React Native, Dhtmlx5  
-- **Database:** Oracle, MySQL, Tibero, Redis
-- **DevOps/Infra:** Docker, AWS, Kafka  
-- **AI/Data:** Python, XGBoost, Ensemble  
-- **기타:** Git, GitHub, DBeaver, Notion, Figma  
 
----
+### 🔙 Backend
+- Java, Spring Framework
+
+### 🔜 Frontend
+- JavaScript, React, React Native  
+- React Native WebView 커스터마이징 경험
+
+### 🗄️ Database
+- Oracle, MySQL, Tibero, Redis
+
+### ⚙️ DevOps / Infra
+- Docker, AWS (EC2, RDS), Kafka
+
+### 🧠 AI / Data
+- Python  
+- XGBoost, Ensemble 학습 및 실험 경험
+
+### 🧰 Tools & Collaboration
+- Git, GitHub  
+- DBeaver, Notion, Figma
 
 ## 진행 중인 프로젝트
 
