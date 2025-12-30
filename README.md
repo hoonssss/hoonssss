@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=YUN%20JAE%20HOON&fontColor=000000&color=gradient&animation=fadeIn)
+kill![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=YUN%20JAE%20HOON&fontColor=000000&color=gradient&animation=fadeIn)
 
 # 🧠 Hoonssss Git
 
@@ -10,7 +10,7 @@ AI(GPT, Claude) 도구를 적극 활용해 부족한 부분을 보완하고, AI�
 
 ## 💼 현재 소속 및 업무
 KRM
-- 금융컨설팅 M&S(유지보수)팀 근무 중  
+- M&S(유지보수)팀 근무 중  
 - 공공기관 통합리스크관리 개발 프로젝트 참여 (2024.06 ~ 2025.04)
 - 통합리스크관리 전반 도메인 유지보수 및 운영 안정화 담당 (2025.04 ~ ing)
  - JSP 기반 화면 로직 수정 및 기능 개선
@@ -19,6 +19,7 @@ KRM
  - 장애 발생 시 로그 분석을 통한 원인 파악 및 오류 조치
 
 PAYCUT
+- CTO로 전반적인 운영 및 기술 개발 총괄
 - 금융 데이터 기반 결제·정산 서비스 PAYCUT 기획 및 개발 주도
 - PG사 연동(카드결제, 가상계좌 등) 및 결제 프로세스 설계·구현
 - 사용자 결제 흐름, 정산 로직, 수수료 구조 등 금융 도메인 핵심 로직 직접 설계
