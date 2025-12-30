@@ -25,6 +25,9 @@ PAYCUT
 - 사용자 결제 흐름, 정산 로직, 수수료 구조 등 금융 도메인 핵심 로직 직접 설계
 - 웹/모바일 환경에서의 결제 안정성 이슈 분석 및 개선
 - 서비스 운영 중 발생하는 장애 분석, 로그 기반 원인 파악 및 유지보수 수행
+- iOS / Android App 개발 진행 중
+- 기술 스택: React, React Native, Spring, Java, JPA, SQL, Redis, Kafka, Docker, AWS  
+- 웹사이트: [https://www.paycutweb.com](https://www.paycutweb.com)  
 
 ---
 
@@ -53,18 +56,11 @@ PAYCUT
 
 ## 🚧 진행 중인 프로젝트
 
-### 1. PAYCUT
-금융 결제 시스템 구축 프로젝트  
-- 사용자 앱, PG 연동, 관리자 웹, 승인 및 사용자 흐름 개발 중  
-- 기술 스택: React, React Native, Spring, Java, JPA, SQL, Redis, Kafka, Docker, AWS  
-- 웹사이트: [https://paycutweb.com](https://paycutweb.com)  
-- 앱: iOS / Android 개발 중
-
-### 2. 주식 AI
+### 1. 주식 AI
 - XGBoost 기반 앙상블 주식 예측 AI  
 - Google Colab 환경에서 실행
 
-### 3. 법률·회계·세무 중심 LLM (준비 중)
+### 2. 법률·회계·세무 중심 LLM (준비 중)
 - 판례 기반 AI 질의응답 시스템  
 - 기술 스택: React, Spring, Docker, Llama, AWS 등
 
