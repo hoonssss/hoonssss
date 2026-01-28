@@ -11,7 +11,7 @@ AI 도구(GPT, Claude 등)를 적극 활용하되,
 
 ---
 
-## 💼 현재 소속 및 업무
+## 현재 소속 및 업무
 
 ### KRM
 - M&S(유지보수)팀 근무  
@@ -43,30 +43,30 @@ AI 도구(GPT, Claude 등)를 적극 활용하되,
 
 ## 🛠 기술 스택
 
-### 🔙 Backend
+### Backend
 - Java, Spring Framework, JPA, MyBatis
 
-### 🔜 Frontend
+### Frontend
 - JavaScript, React, React Native  
 - React Native WebView 커스터마이징 경험
 
-### 🗄 Database
+### Database
 - Oracle, MySQL, Tibero, Redis
 
-### ⚙️ DevOps / Infra
+### DevOps / Infra
 - Docker, AWS (EC2, RDS), Kafka
 
-### 🧠 AI / Data
+### AI / Data
 - Python  
 - XGBoost 기반 앙상블 학습 및 실험
 - ollama 모델 실험
 
-### 🧰 Tools & Collaboration
+### Tools & Collaboration
 - Git, GitHub, DBeaver, Notion, Figma
 
 ---
 
-## 🧑‍💻 개인 프로젝트
+## 개인 프로젝트
 
 ### PAYCUT
 - 금융 결제·정산 서비스
@@ -81,7 +81,7 @@ AI 도구(GPT, Claude 등)를 적극 활용하되,
 
 ---
 
-## 📬 Contact
+## Contact
 - 📧 Email  
   - wogns8030@kakao.com  
   - wogns8030@naver.com  
@@ -91,7 +91,7 @@ AI 도구(GPT, Claude 등)를 적극 활용하되,
 
 ---
 
-## 🔨 Used Technologies
+## Used Technologies
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
