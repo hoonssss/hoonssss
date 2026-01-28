@@ -59,21 +59,10 @@ AI 도구(GPT, Claude 등)를 적극 활용하되,
 ### 🧠 AI / Data
 - Python  
 - XGBoost 기반 앙상블 학습 및 실험
+- ollama 모델 실험
 
 ### 🧰 Tools & Collaboration
 - Git, GitHub, DBeaver, Notion, Figma
-
----
-
-## 🚧 진행 중인 프로젝트
-
-### 1. 주식 예측 AI
-- XGBoost 기반 앙상블 주식 예측 모델
-- Google Colab 환경에서 실험 및 학습
-
-### 2. 법률·회계·세무 특화 LLM (준비 중)
-- 판례 기반 질의응답 시스템
-- 기술 스택: React, Spring, Docker, Llama, AWS
 
 ---
 
