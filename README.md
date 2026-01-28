@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=YUN%20JAE%20HOON&fontColor=000000&color=gradient&animation=fadeIn)
 
-# 🧠 Hoonssss Git
+# 윤재훈
 
 안녕하세요!  
 다양한 언어와 기술을 기록하며, **실제 서비스에 적용 가능한 기술을 만드는 개발자**입니다.  
