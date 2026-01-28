@@ -3,38 +3,48 @@
 # 🧠 Hoonssss Git
 
 안녕하세요!  
-다양한 언어와 기술을 기록하며, 좋은 기술을 세상에 공유하기 위해 GitHub에 꾸준히 기록하고 있습니다.  
-AI(GPT, Claude) 도구를 적극 활용해 부족한 부분을 보완하고, AI가 생성한 코드는 직접 분석해 공부하며 최적화 방법도 연구하고 있습니다.
+다양한 언어와 기술을 기록하며, **실제 서비스에 적용 가능한 기술을 만드는 개발자**입니다.  
+GitHub에는 업무·개인 프로젝트에서 경험한 내용과 문제 해결 과정을 꾸준히 정리하고 있습니다.
+
+AI 도구(GPT, Claude 등)를 적극 활용하되,  
+**AI가 생성한 코드는 반드시 직접 분석·검증하며 최적화와 구조 개선을 병행**하는 것을 원칙으로 합니다.
 
 ---
 
 ## 💼 현재 소속 및 업무
-KRM
-- M&S(유지보수)팀 근무 중  
-- 공공기관 통합리스크관리 개발 프로젝트 참여 (2024.06 ~ 2025.04)
-- 통합리스크관리 전반 도메인 유지보수 및 운영 안정화 담당 (2025.04 ~ ing)
- - JSP 기반 화면 로직 수정 및 기능 개선
- - MyBatis 기반 SQL 및 Mapper 유지보수, Query 최적화 수행
- - 정기/비정기 배치 프로그램 점검 및 수정
- - 장애 발생 시 로그 분석을 통한 원인 파악 및 오류 조치
 
-PAYCUT
-- CTO로 전반적인 운영 및 기술 개발 총괄
-- 금융 데이터 기반 결제·정산 서비스 PAYCUT 기획 및 개발 주도
-- PG사 연동(카드결제, 가상계좌 등) 및 결제 프로세스 설계·구현
-- 사용자 결제 흐름, 정산 로직, 수수료 구조 등 금융 도메인 핵심 로직 직접 설계
-- 웹/모바일 환경에서의 결제 안정성 이슈 분석 및 개선
-- 서비스 운영 중 발생하는 장애 분석, 로그 기반 원인 파악 및 유지보수 수행
+### KRM
+- M&S(유지보수)팀 근무  
+- 공공기관 **통합리스크관리 시스템 개발 프로젝트** 참여 (2024.06 ~ 2025.04)
+- 통합리스크관리 도메인 **유지보수 및 운영 안정화 담당** (2025.04 ~ ing)
+  - JSP 기반 화면 로직 수정 및 기능 개선
+  - MyBatis 기반 SQL / Mapper 유지보수 및 쿼리 최적화
+  - 정기·비정기 배치 프로그램 점검 및 수정
+  - 장애 발생 시 로그 분석을 통한 원인 파악 및 조치
+
+---
+
+### PAYCUT
+- **CTO / 공동 창업 멤버**
+- 금융 데이터 기반 결제·정산 서비스 **PAYCUT 기획 및 개발 총괄**
+- PG사 연동 (카드결제, 가상계좌 등) 및 결제 프로세스 설계·구현
+- 사용자 결제 흐름, 정산 로직, 수수료 구조 등 **금융 도메인 핵심 로직 직접 설계**
+- 웹/모바일 환경 결제 안정성 이슈 분석 및 개선
+- 서비스 운영 중 장애 분석 및 로그 기반 유지보수
 - iOS / Android App 개발 진행 중
-- 기술 스택: React, React Native, Spring, Java, JPA, SQL, Redis, Kafka, Docker, AWS  
-- 웹사이트: [https://www.paycutweb.com](https://www.paycutweb.com)  
+
+**기술 스택**
+- React, React Native, Spring, Java, JPA, SQL  
+- Redis, Kafka, Docker, AWS  
+
+🌐 Website: https://www.paycutweb.com
 
 ---
 
 ## 🛠 기술 스택
 
 ### 🔙 Backend
-- Java, Spring Framework
+- Java, Spring Framework, JPA, MyBatis
 
 ### 🔜 Frontend
 - JavaScript, React, React Native  
@@ -47,7 +57,8 @@ PAYCUT
 - Docker, AWS (EC2, RDS), Kafka
 
 ### 🧠 AI / Data
-- Python (XGBoost, Ensemble 학습 및 실험)
+- Python  
+- XGBoost 기반 앙상블 학습 및 실험
 
 ### 🧰 Tools & Collaboration
 - Git, GitHub, DBeaver, Notion, Figma
@@ -56,28 +67,38 @@ PAYCUT
 
 ## 🚧 진행 중인 프로젝트
 
-### 1. 주식 AI
-- XGBoost 기반 앙상블 주식 예측 AI  
-- Google Colab 환경에서 실행
+### 1. 주식 예측 AI
+- XGBoost 기반 앙상블 주식 예측 모델
+- Google Colab 환경에서 실험 및 학습
 
-### 2. 법률·회계·세무 중심 LLM (준비 중)
-- 판례 기반 AI 질의응답 시스템  
-- 기술 스택: React, Spring, Docker, Llama, AWS 등
+### 2. 법률·회계·세무 특화 LLM (준비 중)
+- 판례 기반 질의응답 시스템
+- 기술 스택: React, Spring, Docker, Llama, AWS
 
 ---
+
 ## 🧑‍💻 개인 프로젝트
-- [PAYCUT](https://www.paycutweb.com)  
-- [레원분](https://cost-calculator-phi.vercel.app)
+
+### PAYCUT
+- 금융 결제·정산 서비스
+- 기획, 설계, 개발, 운영 전반 직접 수행  
+🔗 https://www.paycutweb.com
+
+### 레원분 (레시피 원가 분석 서비스)
+- **직접 기획·개발한 웹 서비스**
+- 음식/디저트 레시피 원가 계산 및 관리 목적
+- 소상공인·개인 판매자 대상 실사용 서비스  
+🔗 https://cost-calculator-phi.vercel.app
 
 ---
 
 ## 📬 Contact
-
-- 📧 Email:  
+- 📧 Email  
   - wogns8030@kakao.com  
   - wogns8030@naver.com  
   - wogns8060@gmail.com  
-- 🌐 [Instagram](https://www.instagram.com/jjhoonss/)
+- 🌐 Instagram  
+  - https://www.instagram.com/jjhoonss/
 
 ---
 
@@ -105,10 +126,3 @@ PAYCUT
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
