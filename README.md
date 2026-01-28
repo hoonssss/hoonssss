@@ -1,4 +1,4 @@
-kill![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=YUN%20JAE%20HOON&fontColor=000000&color=gradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=YUN%20JAE%20HOON&fontColor=000000&color=gradient&animation=fadeIn)
 
 # 🧠 Hoonssss Git
 
