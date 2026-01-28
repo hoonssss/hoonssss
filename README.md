@@ -65,16 +65,9 @@ PAYCUT
 - 기술 스택: React, Spring, Docker, Llama, AWS 등
 
 ---
-
-## 👨‍👩‍👧‍👦 주요 팀 프로젝트
-- [Topster2.0](https://github.com/hoonssss/topster2.0)  
-- [cooperationTool](https://github.com/hoonssss/cooperationTool)  
-- [Backendgram](https://github.com/hoonssss/B08-Backendgram)  
-- [OTIL](https://github.com/hoonssss/otil)
-
 ## 🧑‍💻 개인 프로젝트
-- [highVolumeTrafficBoard](https://github.com/hoonssss/highVolumeTrafficBoard)  
-- [JHBoard](https://github.com/hoonssss/board)
+- [PAYCUT](https://www.paycutweb.com)  
+- [레원분](https://cost-calculator-phi.vercel.app)
 
 ---
 
