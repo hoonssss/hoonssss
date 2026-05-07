@@ -39,12 +39,11 @@ AI 도구(GPT, Claude 등)를 적극 활용하되,
 
 🌐 Website: https://www.paycutweb.com
 
-- ### 윤슬(2026.03~ing)
-- **CEO / 공동 창업 멤버**
-- 카페 브랜드 운영 및 디저트/음료 메뉴 기획
-- 배달 플랫폼 운영 및 고객 리뷰·마케팅 관리
-- 원가 관리 및 매출 데이터 기반 운영 최적화
-- 자체 웹/App 서비스 기획 및 운영
+### 윤슬(2026.04~ing)
+- Toss POS API 연동 매출 분석 + AI 날씨 예측 시스템 
+- Python 단독 실행 파일로 HTML 대시보드 자동 생성
+- XGBoost/Ridge 워크포워드 검증, 공휴일 보정, 번들 추천 등
+🔗 https://github.com/hoonssss/tosspos_ala 
 
 ---
 
