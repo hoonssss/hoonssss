@@ -40,10 +40,11 @@ AI 도구(GPT, Claude 등)를 적극 활용하되,
 🌐 Website: https://www.paycutweb.com
 
 ### 윤슬(2026.04~ing)
-- Toss POS API 연동 매출 분석 + AI 날씨 예측 시스템 
-- Python 단독 실행 파일로 HTML 대시보드 자동 생성
+- Toss POS API 연동 매출 분석 + AI 날씨 예측 시스템
+- next.js, tsx, python
+- vercel, render
 - XGBoost/Ridge 워크포워드 검증, 공휴일 보정, 번들 추천 등
-🔗 https://github.com/hoonssss/tosspos_ala 
+🔗 https://tosspos-ala.vercel.app/
 
 ---
 
@@ -84,6 +85,11 @@ AI 도구(GPT, Claude 등)를 적극 활용하되,
 - 음식/디저트 레시피 원가 계산 및 관리 목적
 - 소상공인·개인 판매자 대상 실사용 서비스  
 🔗 https://cost-calculator-phi.vercel.app
+
+### 재관분 (재고관리 분석 서비스)
+- **직접 기획·개발한 웹 서비스**
+- 유통업 판매자 대상 실사용 서비스
+🔗 https://inventory-management-orcin-nine-96.vercel.app/
 
 ---
 
